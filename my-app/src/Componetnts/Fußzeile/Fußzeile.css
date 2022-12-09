@@ -1,0 +1,22 @@
+.Fuszeile {
+    position:bottom;
+    
+}
+
+.Fuszeile a{
+    color: cornflowerblue;
+    padding: 10px;
+    position:bottum;
+  
+}
+
+
+.Fuszeile h1 {
+    position:center;
+    color: rgb(167, 38, 53);
+    padding: center;
+    display: center;
+    margin:  center;
+    border-top: 1px solid rgb(194, 150, 225);
+
+}
