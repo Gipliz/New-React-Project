@@ -1,9 +1,13 @@
 
+body{
+    background-color: rgb(32, 39, 45);
+}
+
 .Kopfleiste h1 {
     font-style: italic;
     color: blueviolet;
-    display: block;
+    /* display: block; */
     align-items: center;
+    margin: auto;
+    
 }
-
-

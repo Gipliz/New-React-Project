@@ -5,6 +5,7 @@ import Kopfleiste from './Componetnts/Heder/Kopfleiste';
 import SearchBar from './Componetnts/Search_Bar/SearchBar';
 import SerchResults from './Componetnts/Search Results/SearchResults';
 import Fuszeile from './Componetnts/Fußzeile/Fußzeile';
+import "./Componetnts/Fußzeile/Fußzeile.css"
  
 
 
