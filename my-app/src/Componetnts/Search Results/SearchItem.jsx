@@ -1,9 +1,11 @@
 export default function SearchItem({item}){
     console.log(item)
     return(
-        <div>
+        <div className="foto">
             <img src ={item.urls.small} alt = {item.alt_description}/>        
-            <p> {item.alt_description} </p>
+            <p> </p>
         </div>
+
+        
     )
 }

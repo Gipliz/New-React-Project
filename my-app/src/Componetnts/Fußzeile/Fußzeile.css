@@ -1,16 +1,30 @@
-
-.links {
-    flex-direction: row; 
-    margin: auto; 
-    position:fixed; 
-    bottom: 0px;
+.Fuszeile{
+    flex-direction: row;
+    position:fixed;
+    bottom: 15px;
     width: 100%;
     left:0; 
     right:0; 
     margin-left: auto; 
     margin-right: auto; 
-    background-color: rgb(38, 86, 129);
-   
+    background-color: rgb(32, 39, 45);
+    border-top: solid;
+    border-width: 2px;
+    border-radius: 50%;
+    border-color: darkorchid;
+}
+.links {
+    flex-direction: row; 
+    margin: auto; 
+    position: fixed; 
+    bottom: 0px;
+    width: 100%;
+    padding: 10px;
+    left:0; 
+    right:0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    background-color: rgb(32, 39, 45);
 }
 
 a{
@@ -19,16 +33,7 @@ a{
 }
 
 
-.Fuszeile{
-    flex-direction: row;
-    position:fixed;
-    bottom: 0px;
-    width: 100%;
-    left:0; 
-    right:0; 
-    margin-left: auto; 
-    margin-right: auto; 
-}
+
 
 h1{
     color: darkorchid;

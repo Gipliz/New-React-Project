@@ -6,7 +6,7 @@ export default function SerchResults({pics}){
   ));
 
   return (
-    <div>
+    <div className="photo-grid">
       {SearchResults}
     </div>
   )

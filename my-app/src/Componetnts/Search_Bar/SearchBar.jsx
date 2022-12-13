@@ -26,7 +26,7 @@ export default function SearchBar({ setPics }) {
                 type="text"
                 name="query"
                 className="input"
-                placeholder={"Suchbegriff z.B. 'Hund' ..."}
+                placeholder={"Suchbegriff z.B. 'Marihuana' ..."}
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
             />
