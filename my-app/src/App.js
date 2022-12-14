@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react';
 
 import './App.css';
 import Kopfleiste from './Componetnts/Heder/Kopfleiste';
@@ -10,10 +10,10 @@ import Fuszeile from './Componetnts/Fußzeile/Fußzeile';
 
 
 function App() {
-  const [pics, setPics] = useState([]);
+    const [pics, setPics] = useState([]);
 
 
-  return(
+    return(
     <div className="App">
     
       <Kopfleiste/>
@@ -23,7 +23,7 @@ function App() {
 
     </div>
 
-  );
+    );
 }
 
 export default App;
