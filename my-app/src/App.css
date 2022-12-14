@@ -24,13 +24,11 @@
   }
 
 
-
 .photo-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 3fr);
   gap: 10px;
-  grid-auto-rows: minmax(100px, auto);
-
+  grid-auto-rows: minmax(3%, auto);
 
   width: 100%;
   padding: 15px;
