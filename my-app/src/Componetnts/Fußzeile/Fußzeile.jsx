@@ -5,7 +5,7 @@ import "./Fußzeile.css";
 
 const Fuszeile = () => (
     <div className="Fuszeile">
-        <h1>M.K</h1>
+        <h1 className="MK">M.K</h1>
         
         <div className="links">
          <a href="http://www.google.com">Bei weiteren fragen wenden sie sich an Google</a>

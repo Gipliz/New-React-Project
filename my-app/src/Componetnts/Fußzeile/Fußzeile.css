@@ -9,9 +9,14 @@
     margin-right: auto; 
     background-color: rgb(32, 39, 45);
     border-top: solid;
-    border-width: 1px;
     border-radius: 70%;
     border-color: darkorchid;
+}
+
+.MK{
+    margin-bottom: 55px;
+    color: aquamarine;
+
 }
 .links {
     flex-direction: row; 
@@ -19,22 +24,13 @@
     position: fixed; 
     bottom: 0px;
     width: 100%;
-    padding: 10px;
+    padding: 2%;
     left:0; 
-    right:0; 
-    margin-left: auto; 
-    margin-right: auto; 
+    right:0;  
     background-color: rgb(32, 39, 45);
 }
 
 a{
     padding: 2%;
     color: rgb(251, 127, 255);
-}
-
-
-
-
-h1{
-    color: darkorchid;
 }
